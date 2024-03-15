@@ -1,6 +1,5 @@
 ## Language Detection with Text Preprocessing and Multinomial Naive Bayes
-
-This Python script implements a language detection system using text pre-processing and the Multinomial Naive Bayes classification algorithm. 
+This is my implementation of a language detection system using Natural Language Processing and the Multinomial Naive Bayes classification algorithm. 
 
 **Skills Used:**
 
