@@ -14,7 +14,7 @@ This is my implementation of a language detection system using Natural Language 
 **Functionality:**
 
 1. **Data Loading:** Loads the language data from a CSV file ("Language Detection.csv").
-2. **Model Loading (if exists):**
+2. **Model Loading :**
    * Attempts to load a pre-trained model from a specified file path (`model_path`).
    * If the model is not found, it proceeds to training.
 3. **Text Preprocessing:**
@@ -31,7 +31,7 @@ This is my implementation of a language detection system using Natural Language 
    * Predicts the language labels for unseen text data (test set).
 7. **Evaluation:**
    * Calculates accuracy score, confusion matrix, and classification report to assess model performance.
-8. **Custom Sentence Prediction (Optional):**
+8. **Custom Sentence Prediction:**
    * Provides a function `predict_custom` to predict language labels for a list of user-defined sentences.
 
 **Instructions:**
